@@ -1,0 +1,6 @@
+{
+  "name": "Ashok Hardware & Mill Store",
+  "description": "Industrial Machinery, Hardware & Safety Equipment Supplier website with catalog and cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
